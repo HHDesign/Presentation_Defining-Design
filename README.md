@@ -13,4 +13,4 @@ These are imported into the [After Effects Project](/Presentation.aep) as indivi
 
 The final [PowerPoint](/PowerPoint.pptm) embeds the rendered video and contains bookmarks and animation triggers such that the presentation automatically pauses at slide points.  Thus, the presentation can be operated like a normal PowerPoint.  
 
-The [After Effects Project](/Presentation.aep) contains secondary compositions that render select animations into GIFs that are embedded into the [Medium Article](https://medium.com/hh-design/defining-the-big-d-afc856b4b8d) (and posted on dribbble :-P).  
+The [After Effects Project](/Presentation.aep) contains secondary compositions that render select animations into [GIFs](/GIFs) that are embedded into the [Medium Article](https://medium.com/hh-design/defining-the-big-d-afc856b4b8d) (and posted on dribbble :-P).  
